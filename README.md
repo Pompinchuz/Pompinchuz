@@ -6,9 +6,11 @@
 
 </div>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+<img align="right" alt="Coding" width="450" height="430" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JkY3U1bzBsMzJucTlwYWZ5d2xybjA3OXIxbTlwemp3YXh6N210MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVMhqlL5HZGmMExD8Q/giphy.gif">
+
+## <img src="https://media.tenor.com/XqUxcBVuoasAAAAi/chill-chil.gif" width="25">  <b>About Me</b>
 
 - 🔭 I’m currently working in `Java` as `Spring boot`
 
